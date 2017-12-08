@@ -1,5 +1,6 @@
 # Fork 
 Fix undefined is not an object (evaluating '_react3.default.PropType.bool') error and styles.
+Official repo https://github.com/FuYaoDe/react-native-app-intro
 
 # react-native-app-intro
 react-native-app-intro is a react native component implementing a parallax effect welcome page using base on [react-native-swiper](https://github.com/leecade/react-native-swiper) , similar to the one found in Google's app like Sheet, Drive, Docs...
