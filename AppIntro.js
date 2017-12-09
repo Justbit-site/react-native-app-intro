@@ -77,9 +77,10 @@ const defaulStyles = {
     right: 0,
     flexDirection: 'row',
     flex: 1,
-    justifyContent: 'space-between',
+    justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: 'transparent',
+    backgroundColor: 'rgba(0,0,0,0.2)',
+    height: 60
   },
   dotContainer: {
     flex: 0.6,
@@ -92,6 +93,7 @@ const defaulStyles = {
     justifyContent: 'center',
     alignItems: 'center',
     height: 50,
+    marginLeft: 10
   },
   nextButtonText: {
     fontSize: 25,
