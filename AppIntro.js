@@ -81,7 +81,7 @@ const defaulStyles = {
     alignItems: 'center',
     backgroundColor: 'rgba(0,0,0,0.2)',
     height: 85,
-    paddingBottom: 15
+    paddingBottom: 23
   },
   dotContainer: {
     flex: 0.6,
@@ -99,7 +99,7 @@ const defaulStyles = {
   nextButtonText: {
     fontSize: 25,
     fontWeight: 'bold',
-    fontFamily: 'Arial',
+    fontFamily: 'roboto',
   },
   full: {
     height: 80,
