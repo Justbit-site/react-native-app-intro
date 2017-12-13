@@ -80,8 +80,7 @@ const defaulStyles = {
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: 'rgba(0,0,0,0.2)',
-    height: 85,
-    paddingBottom: 23
+    height: 85
   },
   dotContainer: {
     flex: 0.6,
